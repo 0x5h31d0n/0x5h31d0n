@@ -3,8 +3,6 @@
 </h1>
 <h1 align="center">Hi 👋🏾, I'm Sheldon Angelo Menezes</h1>
 <h3 align="center">A passionate backend developer and infosec researcher from Karnataka, India</h3>
-<img align="right" alt="Coding" width="200" src="https://sensorstechforum.com/wp-content/uploads/2016/09/peekasso-mr-robot-gif.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x5h31d0n&label=Profile%20views&color=0e75b6&style=flat" alt="0x5h31d0n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x5h31d0n" alt="0x5h31d0n" /></a> </p>
