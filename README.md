@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x5h31d0n" alt="0x5h31d0n" /></a> </p>
 
-- 🏫 I’m currently learning **Python, PHP**
+- 🏫 I’m currently learning **PHP**
 
-- 🗯️ Ask me about **Python, PHP, Golang, SQL, C++**
+- 🗯️ Ask me about **PHP, Golang**
 
 - 📫 How to reach me **sheldonmenezes@protonmail.com**
 
