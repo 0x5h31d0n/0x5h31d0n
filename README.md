@@ -26,25 +26,11 @@ Check the repos yourself—some are polished, others are... let’s say "charact
 I believe code should be clear enough to read at 3 AM but spicy enough to keep you awake. Open-source is my jam—fork my stuff, break it, make it better. If it crashes, we learn. If it runs, we celebrate. Either way, keep asking "why?"
 
 ┌──(0x5h31d0n㉿kali)-[~]
-└─$ ping -c 1 you
-
-Wanna chat about code, bugs, or the meaning of life? Find me:
-
-- X: @0x5h31d0n for quick rants
-- Email: 0x5h31d0n@proton.me for serious stuff
-- Blog: 0x5h31d0n.github.io for my unfiltered brain dumps
-
-┌──(0x5h31d0n㉿kali)-[~]
 └─$ uptime
 
 Currently: Grinding through a tricky exploit challenge and losing to my own regex.  
 Fun fact: My favorite bug is the one I *almost* caused in prod.  
 Pro tip: Comment your code like you’re explaining it to your future, angrier self.
-
-┌──(0x5h31d0n㉿kali)-[~]
-└─$ ./stats.sh
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x5h31d0n&show_icons=true&theme=monokai&hide_border=true)
 
 ┌──(0x5h31d0n㉿kali)-[~]
 └─$ exit
