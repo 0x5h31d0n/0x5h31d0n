@@ -25,7 +25,8 @@ security nerd who also loves to build stuff. i break things (ethically), then fi
 
 ---
 ## 🔥 my oss contributions
-🎵 [**Rimusic**] (https://github.com/fast4x/RiMusic) - optimised shimmerhost comp. try it out and tell me how cool it is!
+
+🎵 [**Rimusic**] (https://github.com/fast4x/RiMusic) optimised shimmerhost comp. try it out and tell me how cool it is!
 ---
 ## 🔧 stack i mess with
 
