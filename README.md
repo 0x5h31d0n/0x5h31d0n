@@ -1,9 +1,31 @@
-┌──(0x5h31d0n㉿kali)-[~]
-└─$ whoami
+# hey, i'm sheldon 👨🏻‍💻
 
-Hey there, I'm 0x5h31d0n, a curious tinkerer poking at the gears of the digital world. Picture me as a late-night coder, fueled by energy drinks and a stubborn urge to make things work—or spectacularly break them. This GitHub is my terminal window into chaos and creation.
+security nerd who also loves to build stuff. i break things (ethically), then fix them better.
 
-┌──(0x5h31d0n㉿kali)-[~]
-└─$ pwd
+---
 
-You're in my home dir—a messy desk of code, scripts, and half-baked ideas. I mess with low-level stuff, tinker with networks, and occasionally wrestle with a debugger for fun. My projects are like my bash history: a mix of "that worked!" and "what was I thinking?"
+## 🧠 about me
+
+- write code, poke holes in apps, repeat.
+- believe in learning by doing (and sometimes by breaking).
+- big on clean UI + secure backend.
+- currently exploring on-device AI, cyber automation, and decentralization.
+- also i luv r3c0n.
+---
+
+## ⚒️ things i've built
+
+🚜 **agriscrow** — blockchain-based escrow for agriculture. trustless, tamper-proof, and made for small farmers.  
+
+🌊 **varunetra** — built an ocr based sea plotter.  
+
+🔍 **devduo** — react native app (in progress). aio hackathon finder that fetches hackathons from all major sites :> .    
+
+---
+
+## 🔧 stack i mess with
+
+`python` · `javascript` · `react native` · `tact`  
+`flask` · `tailwindcss` · `sqlite` · `bash`  
+`sqlmap` · `burp suite` · `nmap` · `shodan`
+`react` . `django`
