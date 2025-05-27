@@ -1,4 +1,4 @@
-# hey, i'm sheldon menzes 👩🏻‍💻
+# hey, i'm sheldon menezes 👩🏻‍💻
 
 security nerd who also loves to build stuff. i break things (ethically), then fix them better.
 
