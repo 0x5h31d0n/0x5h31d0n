@@ -8,7 +8,6 @@ security nerd who also loves to build stuff. i break things (ethically), then fi
 
 - write code, poke holes in apps, repeat.
 - believe in learning by doing (and sometimes by breaking).
-- big on clean UI + secure backend.
 - currently exploring on-device AI, cyber automation, and decentralization.
 - also i luv r3c0n.
 ---
