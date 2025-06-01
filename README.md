@@ -19,14 +19,14 @@ security nerd who also loves to build stuff. i break things (ethically), then fi
 ---
 ## ⚒️ things i've built
 
-🚜 [**agriscrow**] (https://github.com/0x5h31d0n/Agriscrow-TON) blockchain-based escrow for agriculture. trustless, tamper-proof, and made for small farmers.  
+🚜 [**agriscrow**](https://github.com/0x5h31d0n/Agriscrow-TON) blockchain-based escrow for agriculture. trustless, tamper-proof, and made for small farmers.  
 
-🌊 [**varunetra**] (https://github.com/GlenElric/NavalHack) built an ocr based sea plotter.  
+🌊 [**varunetra**](https://github.com/GlenElric/NavalHack) built an ocr based sea plotter.  
 
 ---
 ## 🔥 my oss contributions
 
-🎵 [**Rimusic**] (https://github.com/fast4x/RiMusic) optimised shimmerhost comp. try it out and tell me how cool it is!
+🎵 [**Rimusic**](https://github.com/fast4x/RiMusic) optimised shimmerhost comp. try it out and tell me how cool it is!
 ---
 ## 🔧 stack i mess with
 
